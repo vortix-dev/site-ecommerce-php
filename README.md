@@ -18,4 +18,4 @@ Ce projet est un site e-commerce développé en **PHP** pour la gestion côté s
 ## 🎯 Installation
 1. **Cloner le projet**  
    ```sh
-   git clone https://github.com/votre-utilisateur/site-ecommerce-php.git
+   git clone https://github.com/vortix-dev/site-ecommerce-php.git
